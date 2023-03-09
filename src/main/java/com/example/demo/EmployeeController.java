@@ -8,6 +8,6 @@ public class EmployeeController {
 
     @GetMapping("/welcome")
     public String welcomeToCollage(){
-        return "Welcome to Collage!!";
+        return "Welcome to our Collage!!";
     }
 }
